@@ -657,17 +657,17 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@ko-fi/nest@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@ko-fi/nest/-/nest-1.0.2.tgz#1e69fc73989db526f38cf6c99b6a7d4ef66f0f68"
-  integrity sha512-PLKPc+/QUoXUm7TDPdVmRRpStmf9J+7U4XZlkjHWc8Z8MWjNZMZsPE/ZdbvOmQq60cUb8o86g/ce/LNJutJVZA==
+"@ko-fi/nest@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@ko-fi/nest/-/nest-1.0.4.tgz#9e744183b1af940cff3d14a0eb97f36cc2a01e32"
+  integrity sha512-I2k39GaQ16zQWFKLvrSX2hs3qOsJfcNYHAHhEIiSMCHTr2VeN8XvfBzwyDuKVkshoqu6Lnbp1PehcKVqRnijUA==
   dependencies:
-    "@ko-fi/types" "^1.0.2"
+    "@ko-fi/types" "^1.0.3"
 
-"@ko-fi/types@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@ko-fi/types/-/types-1.0.2.tgz#38ed6028b2d2cf7bd645aa195df85797ace4cc88"
-  integrity sha512-y4ZbbcuuAvYA2yZ0BfA1aU3uM0mR7FIjaeuYRnNjVlIhV7b2AIo6OP9pZ1UYv6HK8R3qhzNZP6WX4zbLLCQFRg==
+"@ko-fi/types@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@ko-fi/types/-/types-1.0.3.tgz#aab7b3efaf2075d400e4d5d7593462ab0c8077d1"
+  integrity sha512-Edpvaw7LY1tBYGZxdBmkIn24C6n2acq5jy7LDCufPbR1mBazfJ7y2Xi+TyAy0DRiWLO54vGT8hhKK4dgCHWN8w==
 
 "@nestjs/cli@^9.0.0":
   version "9.1.4"
