@@ -27,6 +27,10 @@ export class AppModule {
       onSubscription: (data, req) => {
         console.log('onSubscription called');
       },
+      onError: (err, req) => {
+        console.error('onError called', err);
+      },
+      verificationToken: 'token',
     });
   }
 }

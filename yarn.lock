@@ -657,10 +657,10 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@ko-fi/nest@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@ko-fi/nest/-/nest-1.0.0.tgz#df5078816b245e8c6de21528e5917b38260cc1a4"
-  integrity sha512-ZNKsTXOgcmy+X4xYefkTSx0xnmrbp7GaA8hNjf28e0QVecv0ePMmxEazy3/jJY5OHZSHGD38ka3tVKMfD3grNQ==
+"@ko-fi/nest@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@ko-fi/nest/-/nest-1.0.2.tgz#1e69fc73989db526f38cf6c99b6a7d4ef66f0f68"
+  integrity sha512-PLKPc+/QUoXUm7TDPdVmRRpStmf9J+7U4XZlkjHWc8Z8MWjNZMZsPE/ZdbvOmQq60cUb8o86g/ce/LNJutJVZA==
   dependencies:
     "@ko-fi/types" "^1.0.2"
 
